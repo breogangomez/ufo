@@ -55,6 +55,8 @@ set ( filters_files
       QCflags.h
       QCmanager.cc
       QCmanager.h
+      PracticalBoundsCheck.cc
+      PracticalBoundsCheck.h
       ProfileConsistencyChecks.cc
       ProfileConsistencyChecks.h
       ProfileConsistencyCheckParameters.h
